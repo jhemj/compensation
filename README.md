@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/a4d75b40-79a0-11ef-9957-851915303955/compensation-2024
+www.msaez.io/#/storming/compensation_jhe
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
